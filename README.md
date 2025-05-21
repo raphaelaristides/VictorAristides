@@ -3,7 +3,7 @@
 - 🥇 &nbsp; Sempre almejando novos conhecimentos, em prol do desenvolvimento e da qualidade profissional.
 - 🎓 &nbsp; Pós Graduado em **Engenharia de Software com ênfase em Qualidade e Teste de Software**.
 - :desktop_computer: &nbsp; Amante da Tecnologia da Informação!
-- :page_facing_up: &nbsp; Certified: **KIKF / SFPC / VCA-DCV / API Fundamentals Student Expert **
+- :page_facing_up: &nbsp; Certified: **KIKF / SFPC / VCA-DCV /  / ASTFC - Testing Fundamentals Certification / API Fundamentals Student Expert **
 
 
 <h3> :rocket: &nbsp;Tecnologias & Ferramentas </h3>
